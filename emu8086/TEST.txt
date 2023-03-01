@@ -1,0 +1,4 @@
+MOV AL, 3
+MOV BL, 10
+ADD AL, BL
+NOT AL
